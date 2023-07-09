@@ -1,5 +1,4 @@
 hello wth! 222222222
-hello wth! 222222222
 hello wth!
 hello wth!
 hello wth!
@@ -12,5 +11,5 @@ hello wth!
 hello wth!
 hello wth!
 hello wth!
-hello wth! hello! git!
-hello wth! demo-game ! hello git!
+hello wth!
+hello wth!
